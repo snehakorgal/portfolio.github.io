@@ -1,0 +1,32 @@
+.navigation-bar{
+    background-color: black;
+    overflow: hidden;
+}
+.navigation-bar a{
+    float: left;
+    color: powderblue;
+    text-align: center;
+    padding: 20px 20px;
+    font-size: 18px;
+    text-decoration: none;
+}
+.navigation-bar a:hover{
+    background-color: powderblue;
+    color: black;
+}
+.navigation-bar a.active{
+    background-color: powderblue;
+    color: black;
+}
+body{
+    background-image: url('http://paper-leaf.com/wp-content/uploads/2014/02/better-web-developer.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+   background-position: top;
+}
+p{
+    font-size: 78px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    color: #232323;
+}
