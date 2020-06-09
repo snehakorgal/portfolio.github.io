@@ -1,14 +1,17 @@
 .navigation-bar{
-    background-color: black;
+  
     overflow: hidden;
+   padding-right: 10px;
+   
 }
 .navigation-bar a{
     float: left;
-    color: powderblue;
+    color: black;
     text-align: center;
     padding: 20px 20px;
     font-size: 18px;
     text-decoration: none;
+    
 }
 .navigation-bar a:hover{
     background-color: powderblue;
